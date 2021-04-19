@@ -1,0 +1,11 @@
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\bin\Debug\TictacToe2.exe.config
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\bin\Debug\TictacToe2.exe
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\bin\Debug\TictacToe2.pdb
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.csprojAssemblyReference.cache
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.Form1.resources
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.Properties.Resources.resources
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.csproj.GenerateResource.cache
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.csproj.CoreCompileInputs.cache
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.exe
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.pdb
+C:\Users\guzma\source\repos\TictacToe2\TictacToe2\obj\Debug\TictacToe2.Form2.resources
